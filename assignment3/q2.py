@@ -13,9 +13,9 @@ def multiply(a, b):
 def divide(a, b):
     return (a/b)
 
-choice = 0;
+choice = '0';
 
-while(choice !=5):
+while(choice !='5'):
     print("""
           1. To add
           2. To subtract
