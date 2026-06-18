@@ -29,7 +29,7 @@ cursor.execute(
 cursor.execute(
     """
     CREATE TABLE courses (
-        course_id INTEGER PRIMARY KEY,
+        course_id INTEGER PRIMARY KEY,well thi
         course_name TEXT NOT NULL,
         fee INTEGER
     )
