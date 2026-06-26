@@ -1,0 +1,4 @@
+To make the docker run, use the following commands:
+
+docker build -t spark-partition-app .
+docker run --rm spark-partition-app
